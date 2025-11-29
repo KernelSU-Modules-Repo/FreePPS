@@ -1,0 +1,12 @@
+{
+    "metamodule": false,
+    "summary": "解锁并启用米系设备的公版 PPS 快充协议支持。",
+    "sourceUrl": "https://github.com/Seyud/FreePPS",
+    "additionalAuthors": [
+        {
+            "type": "add",
+            "name": "Seyud",
+            "link": "https://github.com/Seyud"
+        }
+    ]
+}
