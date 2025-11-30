@@ -1,4 +1,4 @@
-**English** | [简体中文](https://github.com/Seyud/FreePPS/blob/main/docs/README.md)
+**English** | [简体中文](../README.md)
 
 # FreePPS 🔋⚡
 
