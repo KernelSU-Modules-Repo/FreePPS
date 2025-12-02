@@ -2,7 +2,7 @@
 
 # FreePPS 🔋⚡
 
-<img src="../logo.png" style="width: 96px;" alt="logo">
+<img src="https://raw.githubusercontent.com/KernelSU-Modules-Repo/FreePPS/main/logo.png" style="width: 96px;" alt="logo">
 
 **Enable public PPS fast charging support for Xiaomi/Mi devices!**
 
