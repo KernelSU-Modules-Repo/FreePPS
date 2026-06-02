@@ -1,6 +1,6 @@
 {
     "metamodule": false,
-    "summary": "解锁并启用米系设备的公版 PPS 快充协议支持。",
+    "summary": "解锁并启用米系设备的公版 PPS 快充协议支持。 / Unlock and enable the support for the public PPS fast charging protocol on Xiaomi devices.",
     "sourceUrl": "https://github.com/Seyud/FreePPS",
     "additionalAuthors": [
         {
